@@ -38,4 +38,6 @@ dependencies {
     // viewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion"
     implementation "androidx.lifecycle:lifecycle-extensions:$lifecycleVersion"
+    // paging
+    implementation "androidx.paging:paging-runtime:$pagingVersion"
 }
